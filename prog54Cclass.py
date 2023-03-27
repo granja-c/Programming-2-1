@@ -1,4 +1,4 @@
-# ik the assignment is lang54b but that has to do with sums and averages and the assignment description talks about circles soooo
+
 
 class Circle:
   def __init__(self, diam):
