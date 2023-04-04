@@ -11,6 +11,7 @@ namespace favclubConsole
         static void Main(string[] args)
         {
             Console.Write("My favorite club is French Club. ");
+            Console.ReadKey();
         }
     }
 }

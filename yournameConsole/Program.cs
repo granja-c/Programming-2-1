@@ -10,7 +10,8 @@ namespace yournameConsole
     {
         static void Main(string[] args)
         {
-            Console.Write("My name is Camila Mae Granja.")
+            Console.Write("My name is Camila Mae Granja.");
+            Console.ReadKey();
         }
     }
 }
