@@ -12,6 +12,8 @@ namespace lang54cConsole
         {
             Console.Write("Enter the diameter:");
             int dia = int.Parse(Console.ReadLine());
+            double pi = 3.14159;
+
         }
     }
 }
