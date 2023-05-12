@@ -1,0 +1,12 @@
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\obj\Debug\strint4.pyprojResolveAssemblyReference.cache
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\obj\Debug\strint4.MainForm.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\obj\Debug\strint4.pyproj.GenerateResource.Cache
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\bin\Debug\strint4.exe.config
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\bin\Debug\strint4.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\bin\Debug\strint4.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\bin\Debug\IronPython.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\bin\Debug\IronPython.Modules.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\bin\Debug\Microsoft.Scripting.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\strint4\obj\Debug\strint4.exe

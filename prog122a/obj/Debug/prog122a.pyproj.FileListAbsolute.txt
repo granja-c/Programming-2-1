@@ -1,0 +1,12 @@
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\bin\Debug\prog122a.exe.config
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\bin\Debug\prog122a.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\bin\Debug\prog122a.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\bin\Debug\IronPython.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\bin\Debug\IronPython.Modules.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\obj\Debug\prog122a.pyprojResolveAssemblyReference.cache
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\obj\Debug\prog122a.MainForm.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\obj\Debug\prog122a.pyproj.GenerateResource.Cache
+C:\Users\granja.c\Desktop\Programmin-2-1\prog122a\obj\Debug\prog122a.exe

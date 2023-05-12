@@ -1,0 +1,12 @@
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\bin\Debug\pg485skateboarddesigner.exe.config
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\bin\Debug\pg485skateboarddesigner.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\bin\Debug\pg485skateboarddesigner.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\bin\Debug\IronPython.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\bin\Debug\IronPython.Modules.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\bin\Debug\Microsoft.Scripting.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\obj\Debug\pg485skateboarddesigner.pyprojResolveAssemblyReference.cache
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\obj\Debug\pg485skateboarddesigner.MainForm.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\obj\Debug\pg485skateboarddesigner.pyproj.GenerateResource.Cache
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485skateboarddesigner\obj\Debug\pg485skateboarddesigner.exe

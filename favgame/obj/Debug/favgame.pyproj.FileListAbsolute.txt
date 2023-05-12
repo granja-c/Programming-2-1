@@ -1,0 +1,12 @@
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\bin\Debug\favgame.exe.config
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\bin\Debug\favgame.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\bin\Debug\favgame.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\bin\Debug\IronPython.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\bin\Debug\IronPython.Modules.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\bin\Debug\Microsoft.Scripting.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\obj\Debug\favgame.pyprojResolveAssemblyReference.cache
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\obj\Debug\favgame.MainForm.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\obj\Debug\favgame.pyproj.GenerateResource.Cache
+C:\Users\granja.c\Desktop\Programmin-2-1\favgame\obj\Debug\favgame.exe

@@ -1,0 +1,13 @@
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\bin\Debug\pg484dormandmealplan.exe.config
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\bin\Debug\pg484dormandmealplan.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\bin\Debug\pg484dormandmealplan.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\bin\Debug\IronPython.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\bin\Debug\IronPython.Modules.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\bin\Debug\Microsoft.Scripting.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\obj\Debug\pg484dormandmealplan.pyprojResolveAssemblyReference.cache
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\obj\Debug\pg484dormandmealplan.MainForm.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\obj\Debug\pg484dormandmealplan.pyproj.GenerateResource.Cache
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\obj\Debug\pg484dormandmealplan.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\pg484dormandmealplan\obj\Debug\pg484dormandmealplan.Form1.resources

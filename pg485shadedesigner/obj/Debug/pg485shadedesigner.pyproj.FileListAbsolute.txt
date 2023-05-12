@@ -1,0 +1,12 @@
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\bin\Debug\pg485shadedesigner.exe.config
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\bin\Debug\pg485shadedesigner.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\bin\Debug\pg485shadedesigner.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\bin\Debug\IronPython.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\bin\Debug\IronPython.Modules.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\bin\Debug\Microsoft.Scripting.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\obj\Debug\pg485shadedesigner.pyprojResolveAssemblyReference.cache
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\obj\Debug\pg485shadedesigner.MainForm.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\obj\Debug\pg485shadedesigner.pyproj.GenerateResource.Cache
+C:\Users\granja.c\Desktop\Programmin-2-1\pg485shadedesigner\obj\Debug\pg485shadedesigner.exe

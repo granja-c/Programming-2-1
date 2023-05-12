@@ -1,0 +1,14 @@
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\bin\Debug\pg435ticketsales.exe.config
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\bin\Debug\pg435ticketsales.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\bin\Debug\pg435ticketsales.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\bin\Debug\IronPython.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\bin\Debug\IronPython.Modules.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\bin\Debug\Microsoft.Scripting.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\obj\Debug\pg435ticketsales.pyprojResolveAssemblyReference.cache
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\obj\Debug\pg435ticketsales.MainForm.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\obj\Debug\pg435ticketsales.pyproj.GenerateResource.Cache
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\obj\Debug\pg435ticketsales.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\obj\Debug\pg435ticketsales.gensales.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\pg435ticketsales\obj\Debug\pg435ticketsales.studentsales.resources

@@ -1,0 +1,13 @@
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\bin\Debug\pg479conference.exe.config
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\bin\Debug\pg479conference.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\bin\Debug\pg479conference.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\bin\Debug\IronPython.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\bin\Debug\IronPython.Modules.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\bin\Debug\Microsoft.Scripting.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\obj\Debug\pg479conference.pyprojResolveAssemblyReference.cache
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\obj\Debug\pg479conference.Form1.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\obj\Debug\pg479conference.MainForm.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\obj\Debug\pg479conference.pyproj.GenerateResource.Cache
+C:\Users\granja.c\Desktop\Programmin-2-1\pg479conference\obj\Debug\pg479conference.exe

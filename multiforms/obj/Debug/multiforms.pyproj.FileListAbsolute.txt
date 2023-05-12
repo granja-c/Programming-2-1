@@ -1,0 +1,13 @@
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\bin\Debug\multiforms.exe.config
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\bin\Debug\multiforms.exe
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\bin\Debug\multiforms.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\bin\Debug\IronPython.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\bin\Debug\IronPython.Modules.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\bin\Debug\Microsoft.Scripting.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\obj\Debug\multiforms.pyprojResolveAssemblyReference.cache
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\obj\Debug\multiforms.Form1.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\obj\Debug\multiforms.MainForm.resources
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\obj\Debug\multiforms.pyproj.GenerateResource.Cache
+C:\Users\granja.c\Desktop\Programmin-2-1\multiforms\obj\Debug\multiforms.exe
