@@ -15,18 +15,17 @@ namespace strInterview18
             Console.Write("Enter a character to remove: ");
             string search = Console.ReadLine();
             int tLen = txt.Length;
-            int sLen = search.Length;
-            string res = txt;
-            int[] ind;
+            string res = "";
 
             for (int cnt = 0; cnt < tLen; cnt++)
             {
-                if (txt[cnt] == search[0])
+                if (txt[cnt] != search[0])
                 {
-                    
+                    res += txt[cnt];
                 }
             }
-
+            Console.WriteLine("Removing '" + search + "' from " + txt + " gives you " + res);
+            Console.ReadKey();
 
         }
     }
